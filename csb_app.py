@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
 CSB - Crusader Secret Bureau
-Local desktop intelligence application for Minecraft / Stoneworks.
+Local desktop intelligence application.
 
 This build focuses on reliable local persistence, visible attachments,
 robust record saving, fresh Data Intake data, and detailed diagnostics.
