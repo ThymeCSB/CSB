@@ -69,20 +69,9 @@ The application is built with **Python** and **Flet**, providing a modern, nativ
 
 ### Steps
 
-1. **Clone or download the repository**
-
-   ```bash
-   git clone https://github.com/ThymeCSB/CSB.git
-   cd CSB
-   ```
-
-   (Or download the ZIP and extract it.)
+1. **Download csb_app.py**
 
 2. **Install required Python packages**
-
-   ```bash
-   pip install flet cryptography
-   ```
 
    - `flet` – the GUI framework.
    - `cryptography` – for encryption (Fernet, PBKDF2).
@@ -212,3 +201,5 @@ For commercial use, please contact the repository owner.
 |<>| CSB RESEARCH AND INTELLIGENCE DEPARTMENT |<>|
 
 |<>| CRUSADER GOVERNMENT - CLASSIFIED SOFTWARE |<>|
+
+```markdown
